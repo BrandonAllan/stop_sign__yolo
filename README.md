@@ -1,4 +1,4 @@
-# YOLOv8 Stop Sign Detector
+# YOLOv26 Stop Sign Detector
 
 A deep learning computer vision project for detecting STOP traffic signs in images using a custom-trained YOLO26n object detection model. The project performs object detection, bounding-box prediction, confidence scoring, and pixel-coordinate localization of detected STOP signs.
 
